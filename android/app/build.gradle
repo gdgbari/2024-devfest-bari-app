@@ -50,7 +50,7 @@ android {
         applicationId = "com.gdgbari.devfest2024"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
-        minSdk = 23
+        minSdkVersion = flutter.minSdkVersion
         targetSdk = 34
         versionCode = 6 // TODO: always update manually
         versionName = flutterVersionName
