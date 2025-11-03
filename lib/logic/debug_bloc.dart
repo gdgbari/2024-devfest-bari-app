@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:bloc/bloc.dart';
-import 'package:devfest_bari_2024/logic.dart';
+import 'package:devfest_bari_2025/logic.dart';
 
 class DebugBloc extends BlocObserver {
   @override

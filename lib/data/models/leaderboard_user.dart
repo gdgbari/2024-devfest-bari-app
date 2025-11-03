@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:ui';
 
-import 'package:devfest_bari_2024/ui.dart';
+import 'package:devfest_bari_2025/ui.dart';
 import 'package:equatable/equatable.dart';
 
 class LeaderboardUser extends Equatable {

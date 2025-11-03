@@ -1,5 +1,5 @@
-import 'package:devfest_bari_2024/logic.dart';
-import 'package:devfest_bari_2024/ui.dart';
+import 'package:devfest_bari_2025/logic.dart';
+import 'package:devfest_bari_2025/ui.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -40,7 +40,7 @@ class SignUpPage extends StatelessWidget {
             mainAxisSize: MainAxisSize.max,
             children: <Widget>[
               const Text(
-                'Join us at DevFest Bari 2024!',
+                'Join us at DevFest Bari 2025!',
                 style: PresetTextStyle.black19w500,
               ),
               const SizedBox(height: 20),

@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:devfest_bari_2024/ui.dart';
+import 'package:devfest_bari_2025/ui.dart';
 import 'package:equatable/equatable.dart';
 
 class Group extends Equatable {

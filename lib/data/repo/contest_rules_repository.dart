@@ -1,4 +1,4 @@
-import 'package:devfest_bari_2024/data.dart';
+import 'package:devfest_bari_2025/data.dart';
 
 class ContestRulesRepository {
   ContestRulesRepository._internal();

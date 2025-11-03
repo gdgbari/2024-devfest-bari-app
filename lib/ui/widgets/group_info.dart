@@ -1,7 +1,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:devfest_bari_2024/data.dart';
-import 'package:devfest_bari_2024/ui/theme/color_palette.dart';
-import 'package:devfest_bari_2024/ui/widgets.dart';
+import 'package:devfest_bari_2025/data.dart';
+import 'package:devfest_bari_2025/ui/theme/color_palette.dart';
+import 'package:devfest_bari_2025/ui/widgets.dart';
 import 'package:flutter/material.dart';
 
 class GroupInfo extends StatelessWidget {

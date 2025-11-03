@@ -1,4 +1,4 @@
-# devfest_bari_2024
+# devfest_bari_2025
 
 A new Flutter project.
 

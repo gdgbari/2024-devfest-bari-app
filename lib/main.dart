@@ -1,10 +1,10 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:devfest_bari_2024/app.dart';
-import 'package:devfest_bari_2024/firebase_options.dart';
-import 'package:devfest_bari_2024/logic.dart';
-import 'package:devfest_bari_2024/ui.dart';
+import 'package:devfest_bari_2025/app.dart';
+import 'package:devfest_bari_2025/firebase_options.dart';
+import 'package:devfest_bari_2025/logic.dart';
+import 'package:devfest_bari_2025/ui.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

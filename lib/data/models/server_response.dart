@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:devfest_bari_2024/data.dart';
+import 'package:devfest_bari_2025/data.dart';
 import 'package:equatable/equatable.dart';
 
 class ServerResponse extends Equatable {

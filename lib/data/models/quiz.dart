@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:devfest_bari_2024/data/models.dart';
+import 'package:devfest_bari_2025/data/models.dart';
 import 'package:equatable/equatable.dart';
 
 class Quiz extends Equatable {

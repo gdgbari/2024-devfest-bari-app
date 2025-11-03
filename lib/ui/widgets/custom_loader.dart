@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:devfest_bari_2024/ui/theme/color_palette.dart';
+import 'package:devfest_bari_2025/ui/theme/color_palette.dart';
 import 'package:flutter/material.dart';
 
 class CustomLoader extends StatefulWidget {

@@ -1,5 +1,5 @@
-import 'package:devfest_bari_2024/logic.dart';
-import 'package:devfest_bari_2024/ui.dart';
+import 'package:devfest_bari_2025/logic.dart';
+import 'package:devfest_bari_2025/ui.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
@@ -24,7 +24,7 @@ class NavigationBarPage extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: ColorPalette.black,
           title: const Text(
-            'DevFest Bari 2024',
+            'DevFest Bari 2025',
             style: PresetTextStyle.white21w500,
           ),
           centerTitle: true,

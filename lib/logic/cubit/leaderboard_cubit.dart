@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:devfest_bari_2024/data.dart';
+import 'package:devfest_bari_2025/data.dart';
 import 'package:equatable/equatable.dart';
 
 part 'leaderboard_state.dart';
