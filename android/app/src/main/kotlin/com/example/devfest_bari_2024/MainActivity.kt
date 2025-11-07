@@ -1,4 +1,4 @@
-package com.gdgbari.devfest2025
+package com.gdgbari.devfest
 
 import io.flutter.embedding.android.FlutterActivity
 

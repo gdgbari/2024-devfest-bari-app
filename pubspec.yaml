@@ -1,7 +1,7 @@
 name: devfest_bari_2025
 description: "Engagement App for the DevFest Bari 2025."
 publish_to: "none"
-version: 1.0.5+1
+version: 1.0.0+1
 
 environment:
   sdk: ">=3.4.3 <4.0.0"

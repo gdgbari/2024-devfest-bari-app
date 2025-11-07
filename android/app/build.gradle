@@ -33,8 +33,8 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace = "com.gdgbari.devfest2025"
-    compileSdk = 34
+    namespace = "com.gdgbari.devfest"
+    compileSdk = 35
     //ndkVersion = 26
 
     compileOptions {
@@ -47,12 +47,12 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.gdgbari.devfest2025"
+        applicationId = "com.gdgbari.devfest"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdkVersion = flutter.minSdkVersion
-        targetSdk = 34
-        versionCode = 6 // TODO: always update manually
+        targetSdk = 35
+        versionCode = 1 // TODO: always update manually
         versionName = flutterVersionName
     }
 
